@@ -180,8 +180,8 @@ Google建议维护辅助联系信息，以便账号发生问题时恢复访问�
 - [Google：创建账号](https://support.google.com/accounts/answer/27441?hl=zh-Hans)
 - [Google：验证账号与电话号码错误](https://support.google.com/accounts/answer/114129?hl=zh-Hans)
 - [Google：开启两步验证](https://support.google.com/accounts/answer/185839?hl=zh-Hans)
-- [选题参考：知乎Google/Gmail注册教程](https://zhuanlan.zhihu.com/p/2022790403506586088)
 
-本文参考相关教程讨论的注册问题，按官方资料重新组织内容；未复用原文截图，未将个人经验作为保证成功的方法。
+
+
 
 如需咨询谷歌账号注册相关问题，可联系 **ef22055** 或前往 [wokee888.shop](https://wokee888.shop) 查看服务说明。该入口为独立第三方服务，非Google官方支持。
