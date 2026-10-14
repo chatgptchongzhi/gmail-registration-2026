@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chatgptchongzhi.github.io/gmail-registration-2026/sitemap.xml
